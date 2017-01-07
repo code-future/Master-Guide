@@ -1,2 +1,5 @@
 # Master-Guide
-yay, documentation!
+
+## Resources
+### Project Inspiration:
+- https://www.indiehackers.com/
